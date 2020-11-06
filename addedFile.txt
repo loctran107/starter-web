@@ -1,2 +1,6 @@
 Here is something I wanted to test and added in the forking repository
 in the Udemy git tutorial.
+
+By the time I committed this, this already become the tracked file
+that is index by git local repository
+
